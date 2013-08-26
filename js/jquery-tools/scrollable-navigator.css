@@ -1,0 +1,32 @@
+
+/* position and dimensions of the navigator */
+.navi{
+	position: relative;
+	left:150px;
+	top:250px;
+	width:200px;
+	height:20px;
+	z-index: 999999;
+}
+
+
+/* items inside navigator */
+.navi a {
+	width:13px;
+	height:13px;
+	float:left;
+	margin:3px;
+	background: url(../../images/scroll-inactive-btn.jpg) top center no-repeat;
+	display:block;
+	font-size:1px;
+}
+
+/* mouseover state */
+.navi a:hover {
+	background: url(../../images/scroll-active-btn.jpg) top center no-repeat;
+}
+
+/* active state (current page state) */
+.navi a.active {
+	background: url(../../images/scroll-active-btn.jpg) top center no-repeat;
+}
