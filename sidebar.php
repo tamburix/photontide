@@ -49,30 +49,10 @@
         <li><div data-configid="4369260/2557560" style="width: 220px; height: 150px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script></li>      
   		</ul>
   	</section>
-  	
-  	<section class="sponsored-box">
-  	<header>
-  		<img src="<?php bloginfo('template_directory'); ?>/images/sponzorisani-clanci-header.png" width="220" height="73" alt="Twitter">
-                </header>                            
-  	<section class="sponsored-box-list">								
-  	<ul>									
-  		<li><a href="<?php bloginfo("url"); ?>/pet-najboljih-sf-kockarskih-scena/">Pet najboljih SF kockarskih scena</a></li>								
-  	</ul>
-  	</section>                        
+  	  	
 	   <section>
       <div class="g-page" data-width="220" data-href="//plus.google.com/101990028186074669001" data-rel="publisher"></div>
      </section>
 	
-	<!--
-	<section class="friends-banners">
-		<ul>
-			<li><a href="http://popboks.com/"><img src="<?php bloginfo("template_directory"); ?>/images/popboks.jpg" width="220" height="130" alt="Popboks" ></a></li>	
-			<li><a href="http://proveramikrofona.com/"><img src="<?php bloginfo("template_directory"); ?>/images/pmikrofona_baner_220x130.jpg" width="220" height="130" alt="Provera Mikrofona" ></a></li>
-			<li><a href="http://domaciweb.com/"><img src="<?php bloginfo("template_directory"); ?>/images/domaci_web.png" width="220" height="130" alt="Domaci Web" ></a></li>
-			<li><a href="http://frenzyspark.com/"><img src="<?php bloginfo("template_directory"); ?>/images/fs_baner.jpg" width="220" height="130" alt="FrenzySpark" ></a></li>
-			<li><a href="http://www.megablog.rs/"><img src="<?php bloginfo("template_directory"); ?>/images/mega_blog.jpg" width="220" height="130" alt="MegaBlog" ></a></li>
-			<li><a href="http://arc3d.rs/"><img src="<?php bloginfo("template_directory"); ?>/images/arc_baner.jpg" width="220" height="130" alt="Arc3D" ></a></li>
-		</ul>
-	</section>
-	-->
+	
 </aside>
