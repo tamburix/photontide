@@ -4,25 +4,25 @@
         	<a href="<?php bloginfo('url'); ?>/forum/"><img src="<?php bloginfo('template_directory'); ?>/images/forum-sidebar-header.png" width="220" height="73" alt="Forum"></a>
         </header>
         <section class="forum-box-list">
-    				<!-- Forum RSS -->                        
-    				<?php																	
-    				require_once (ABSPATH . WPINC . '/rss.php');
-    				$rss = @fetch_rss('http://www.photontide.org/forum/index.php/index.php?action=.xml;type=rss');
-    				if ( isset($rss->items) && 0 != count($rss->items) ) {							
-    				?>
-    				<ul>
-    				<?php
-    				$rss->items = array_slice($rss->items, 0, 10);
-    				foreach ($rss->items as $item ) {
-    				?>
-    				<li>
-    				<a href='<?php echo wp_filter_kses($item['link']); ?>'>
-    				<?php echo wp_specialchars($item['title']); ?>
-    				</a>
-    				</li>
-    				<?php } ?>
-    				</ul>
-    				<?php } ?>									
+			<!-- Forum RSS -->                        
+			<?php																	
+			require_once (ABSPATH . WPINC . '/rss.php');
+			$rss = @fetch_rss('http://www.photontide.org/forum/index.php/index.php?action=.xml;type=rss');
+			if ( isset($rss->items) && 0 != count($rss->items) ) {							
+			?>
+			<ul>
+			<?php
+			$rss->items = array_slice($rss->items, 0, 10);
+			foreach ($rss->items as $item ) {
+			?>
+			<li>
+			<a href='<?php echo wp_filter_kses($item['link']); ?>'>
+			<?php echo wp_specialchars($item['title']); ?>
+			</a>
+			</li>
+			<?php } ?>
+			</ul>
+			<?php } ?>									
         </section>
     </section>              
     <section class="facebook-box">
@@ -43,7 +43,10 @@
 
         </section>
 
-    </section>              
+    </section>     
+    <section class="contest">
+        <a href="http://www.carobnaknjiga.rs/enderova-igra"><img src="<?php bloginfo('template_directory'); ?>/images/ender_banner.jpg" alt=""></a>
+    </section>         
   	<section class="friends-banners">
   		<ul>
         <li><div data-configid="4369260/2557560" style="width: 220px; height: 150px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script></li>      
