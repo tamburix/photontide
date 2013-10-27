@@ -175,13 +175,12 @@
                 </div>
             </footer>			
 			<section class="ft-friends-banners">				
-				<ul>										
-					<li><a href="http://proveramikrofona.com/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/provera-mikrofona.jpg" width="120" height="60" alt="Provera Mikrofona" ></a></li>
-					<li><a href="http://domaciweb.com/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/domaciweb.jpg" width="120" height="60" alt="Domaci Web" ></a></li>					<li><a href="http://frenzyspark.com/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/frenzyspark.jpg" width="120" height="60" alt="FrenzySpark" ></a></li>
+				<ul>															
+					<li><a href="http://domaciweb.com/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/domaciweb.jpg" width="120" height="60" alt="Domaci Web" ></a></li>
+                    <li><a href="http://frenzyspark.com/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/frenzyspark.jpg" width="120" height="60" alt="FrenzySpark" ></a></li>
 					<li><a href="http://www.megablog.rs/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/megablog.jpg" width="120" height="60" alt="MegaBlog" ></a></li>
 					<li><a href="http://arc3d.rs/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/ARC.jpg" width="120" height="60" alt="Arc3D" ></a></li>
-					<li><a href="http://www.filmske-radosti.com/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/filmske-radosti-web.jpg" width="120" height="60" alt="Filmske radosti" ></a></li>
-					<li><a href="http://hiphop.iz.rs/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/hiphop-120x60.jpg" width="120" height="60" alt="Hip Hop strana Srbije" ></a></li>
+					<li><a href="http://www.filmske-radosti.com/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/filmske-radosti-web.jpg" width="120" height="60" alt="Filmske radosti" ></a></li>					
 					<li><a href="http://www.exxtreme3d.net/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/exxtreme3d.png" width="120" height="60" alt="Exxtreme 3D" ></a></li>
 					<li><a href="http://siriusb.hangar7.hr/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/SiriusB_Banner_120x60.jpg" width="120" height="60" alt="Sirius B" ></a></li>
 					<li><a href="http://inverzija.net/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/Inverzija_Banner_120x60.jpg" width="120" height="60" alt="Inverzija" ></a></li>
