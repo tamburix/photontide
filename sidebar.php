@@ -45,11 +45,11 @@
 
     </section>     
     <section class="contest">
-        <a href="http://www.carobnaknjiga.rs/enderova-igra"><img src="<?php bloginfo('template_directory'); ?>/images/ender_banner.jpg" alt=""></a>
+        <a href="http://www.carobnaknjiga.rs/oni-drugi"><img src="<?php bloginfo('template_directory'); ?>/images/Oni-drugi_1.png" alt=""></a>
     </section>         
   	<section class="friends-banners">
   		<ul>
-        <li><div data-configid="4369260/2557560" style="width: 220px; height: 150px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script></li>      
+        <li><iframe name="Joomag_embed_dbe46e4d-1179-4ac8-a9a7-d74432007365" style="width:220px;height:150px" width="220px" height="150px" hspace="0" vspace="0" frameborder="0"  src="http://www.joomag.com/magazine/universal-cinema-broj-16/0729453001383054318?p=1&amp;e=1&amp;embedInfo=;image,https%3A%2F%2Fd25ow0ysq5ykrj.cloudfront.net%2Fflash%2Fgui%2Fthemes%2Fwood_new%2Fbg.jpg,fill"></iframe></li>      
   		</ul>
   	</section>
   	  	
