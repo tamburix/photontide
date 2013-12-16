@@ -190,6 +190,7 @@
                     <li><a href="http://kendo-training.com/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/kendo_baner.jpg" width="120" height="60" alt="The Way of the Sword" ></a></li>
                     <li><a href="http://www.srbodroid.com/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/srbodroid_120x60.png" width="120" height="60" alt="Srbodroid" ></a></li>
                     <li><a href="http://www.hbo.rs/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/hbo-120x60.png" width="120" height="60" alt="HBO" ></a></li>
+                    <li><a href="http://moviesfilmsandmovies.blogspot.com/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/mfm.jpg" width="120" height="60" alt="MFM" ></a></li>
 				</ul>			
 			</section>
         </div>                
