@@ -191,6 +191,9 @@
                     <li><a href="http://www.srbodroid.com/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/srbodroid_120x60.png" width="120" height="60" alt="Srbodroid" ></a></li>
                     <li><a href="http://www.hbo.rs/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/hbo-120x60.png" width="120" height="60" alt="HBO" ></a></li>
                     <li><a href="http://moviesfilmsandmovies.blogspot.com/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/mfm.jpg" width="120" height="60" alt="MFM" ></a></li>
+                    <li><a href="http://filmskerecenzije.com/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/filmske-120-60.gif" width="120" height="60" alt="Filmske recenzije" ></a></li>
+                    <li><a href="http://www.svetnauke.org/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/svetnauke-banner.jpg" width="120" height="60" alt="Svet nauke" ></a></li>
+                    <li><a href="http://www.itmagazin.info/"><img src="<?php bloginfo("template_directory"); ?>/images/baneri/it_magazin.jpg" width="120" height="60" alt="IT Magazin" ></a></li>
 				</ul>			
 			</section>
         </div>                

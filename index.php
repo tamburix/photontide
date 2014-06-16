@@ -81,6 +81,17 @@
             	
 
                     <section id="content">
+                      <section class="banner-ad">
+                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- PhT Main page -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-4291799529188725"
+     data-ad-slot="8807810087"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+                      </section>
 
                     	<?php if (have_posts()) : ?>
 

@@ -492,6 +492,12 @@ nav li{
 	text-align: center;
 }
 
+.banner-ad{
+	width: 100%;
+	text-align: center;
+	margin: 10px 0;	
+}
+
 
 
 /* Subcategory list */
@@ -912,7 +918,7 @@ img.alignleft {
 
 .post-share{
 
-	float: left;
+	/*float: left;*/
 
 	margin: 10px 20px;
 

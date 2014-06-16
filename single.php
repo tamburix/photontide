@@ -72,6 +72,17 @@ if(function_exists('bcn_display'))
                             </section>  
 
                             <footer class="post-share">
+                                <section class="banner-ad">
+                                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Pht Single article -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:468px;height:60px"
+     data-ad-client="ca-pub-4291799529188725"
+     data-ad-slot="5714742883"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+                      </section>
 
                             <div style="float: left;"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>
 
