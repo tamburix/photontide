@@ -48,8 +48,8 @@
         <a href="http://www.carobnaknjiga.rs/princ-valijant-2"><img src="<?php bloginfo('template_directory'); ?>/images/pht_preporucuje_valijant.jpg" alt=""></a>
     </section>         
   	<section class="friends-banners">
-  		<ul>
-        <li><iframe name="Joomag_embed_ed5d6eac-80ad-485b-8f99-9537d07a0531" style="width:220px;height:150px" width="220px" height="150px" hspace="0" vspace="0" frameborder="0"  src="http://www.joomag.com/magazine/universal-cinema-broj-19/0653131001393922137?p=1&amp;e=1&amp;embedInfo=;solid,ffffff"></iframe></li>      
+  		<ul>        
+        <li><iframe name="Joomag_embed_95020a88-782d-4fc3-9bfc-2313f48815ab" style="width:220px;height:150px" width="220px" height="150px" hspace="0" vspace="0" frameborder="0" src="http://www.joomag.com/magazine/universal-cinema-broj-25/0675193001413956847?p=1&amp;e=1&amp;embedInfo=;image,https%3A%2F%2Fd25ow0ysq5ykrj.cloudfront.net%2Fflash%2Fgui%2Fthemes%2Fdefault%2Fbg.jpg,fill"></iframe></li>
   		</ul>
   	</section>
   	  	
