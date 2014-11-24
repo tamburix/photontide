@@ -49,7 +49,7 @@
     </section>         
   	<section class="friends-banners">
   		<ul>        
-        <li><iframe name="Joomag_embed_95020a88-782d-4fc3-9bfc-2313f48815ab" style="width:220px;height:150px" width="220px" height="150px" hspace="0" vspace="0" frameborder="0" src="http://www.joomag.com/magazine/universal-cinema-broj-25/0675193001413956847?p=1&amp;e=1&amp;embedInfo=;image,https%3A%2F%2Fd25ow0ysq5ykrj.cloudfront.net%2Fflash%2Fgui%2Fthemes%2Fdefault%2Fbg.jpg,fill"></iframe></li>
+        <li><iframe name="Joomag_embed_91fc7273-80e9-43b3-821f-69dcbaa98b59" style="width:220px;height:150px" width="220px" height="150px" hspace="0" vspace="0" frameborder="0" src="http://www.joomag.com/magazine/universal-cinema-/0786709001416300903?p=1&amp;e=1&amp;embedInfo=;image,%2F%2Fstatic.joomag.com%2Fponch%2Fflash%2Fgui%2Fthemes%2Fdefault%2Fbg.jpg,fill"></iframe></li>        
   		</ul>
   	</section>
   	  	
