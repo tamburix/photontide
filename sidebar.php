@@ -48,8 +48,8 @@
         <a href="http://www.carobnaknjiga.rs/princ-valijant-2"><img src="<?php bloginfo('template_directory'); ?>/images/pht_preporucuje_valijant.jpg" alt=""></a>
     </section>         
   	<section class="friends-banners">
-  		<ul>        
-        <li><iframe name="Joomag_embed_91fc7273-80e9-43b3-821f-69dcbaa98b59" style="width:220px;height:150px" width="220px" height="150px" hspace="0" vspace="0" frameborder="0" src="http://www.joomag.com/magazine/universal-cinema-/0786709001416300903?p=1&amp;e=1&amp;embedInfo=;image,%2F%2Fstatic.joomag.com%2Fponch%2Fflash%2Fgui%2Fthemes%2Fdefault%2Fbg.jpg,fill"></iframe></li>        
+  		<ul>
+        <li><iframe name="Joomag_embed_e91e5317-ba8a-44b1-8e72-fa4596112c67" style="width:300px;height:150px" width="220px" height="150px" hspace="0" vspace="0" frameborder="0"  src="http://www.joomag.com/magazine/cinema-winter-special-2015/0510159001421521350?p=1&amp;e=1&amp;embedInfo=;image,%2F%2Fstatic.joomag.com%2Fponch%2Fflash%2Fgui%2Fthemes%2Fdefault%2Fbg.jpg,fill"></iframe></li>        
   		</ul>
   	</section>
   	  	
