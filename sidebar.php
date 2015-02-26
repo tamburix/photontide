@@ -49,7 +49,7 @@
     </section>         
   	<section class="friends-banners">
   		<ul>
-        <li><iframe name="Joomag_embed_e91e5317-ba8a-44b1-8e72-fa4596112c67" style="width:300px;height:150px" width="220px" height="150px" hspace="0" vspace="0" frameborder="0"  src="http://www.joomag.com/magazine/cinema-winter-special-2015/0510159001421521350?p=1&amp;e=1&amp;embedInfo=;image,%2F%2Fstatic.joomag.com%2Fponch%2Fflash%2Fgui%2Fthemes%2Fdefault%2Fbg.jpg,fill"></iframe></li>        
+        <li><iframe name="Joomag_embed_5682c8e6-8ec5-47f1-b455-bb64c011c8d2" style="width:300px;height:150px" width="220px" height="150px" hspace="0" vspace="0" frameborder="0"  src="http://www.joomag.com/magazine/cinema-broj-28/0279515001424191931?p=1&amp;e=1&amp;embedInfo=;image,%2F%2Fd25ow0ysq5ykrj.cloudfront.net%2Fponch%2Fflash%2Fgui%2Fthemes%2Fdefault%2Fbg.jpg,fill"></iframe></li>        
   		</ul>
   	</section>
   	  	
